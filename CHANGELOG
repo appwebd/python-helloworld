@@ -1,0 +1,9 @@
+2abd397 Wed Jun 23 15:10:51 2021 -0400 Removed phyton-version and pytest of workflow.
+7c4f937 Wed Jun 23 15:02:35 2021 -0400 Updated workflow
+7776dd0 Wed Jun 23 12:21:29 2021 -0400 Updated .docker-build.yml
+bdbe1bb Wed Jun 23 12:13:20 2021 -0400 Update docker-build.yml
+e9a935c Wed Jun 23 12:09:33 2021 -0400 Updated .docker-build.yml
+934f2cb Wed Jun 23 11:46:12 2021 -0400 Updated .docker-build.yml
+3fefef1 Wed Jun 23 11:37:46 2021 -0400 Updated .gitignore
+a04eda1 Wed Jun 23 11:01:26 2021 -0400 Initial commit 2021 06 23
+c2d8d5b Wed Jun 23 10:22:51 2021 -0400 Initial commit
